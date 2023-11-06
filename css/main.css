@@ -35,4 +35,12 @@ body{
     text-align: center;
     color: teal;
     font-size: 500%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.active-start img {
+    max-height: 80%;
+    max-width: 80%;
 }
