@@ -199,3 +199,4 @@ function main(){
 
 main();
 
+// TODO: allow user inputs w/o changing codes
